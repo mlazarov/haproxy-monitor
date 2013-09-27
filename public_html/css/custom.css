@@ -1,0 +1,25 @@
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+body {
+	font: 11px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+	padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f5f5f5;
+	cursor:		default;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+.table {
+	background-color:	white;
+}
+.table-condensed th, .table-condensed td {
+		padding: 1px 5px;
+}
