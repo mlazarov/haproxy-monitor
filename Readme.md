@@ -1,6 +1,6 @@
 ## Haproxy Simple Traffic Monitoring Tool
 
-![Screenshot] (https://raw.github.com/mlazarov/haproxy-monitor/master/haproxy-monitor.png)
+![Screenshot](https://raw.github.com/mlazarov/haproxy-monitor/master/haproxy-monitor.png)
 
 
 ## License
